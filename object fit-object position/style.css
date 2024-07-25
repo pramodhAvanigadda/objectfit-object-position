@@ -1,0 +1,154 @@
+h1{
+    background-color:orangered;
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    width: 230px;
+    text-align: center;
+    padding: 2px;
+    margin-left: 600px;
+    
+}
+
+h2{
+    background-color: maroon;
+    color: white;
+    width: 200px;
+    text-align: center;
+    border-radius: 40px;
+    padding: 3px;
+    margin-left: 30px;
+}
+h3{
+background-color: maroon;
+color: white;
+width: 400px;
+font-size: 1.6rem;
+text-align: center;
+border-radius: 40px;
+padding: 3px;
+margin-left: 30px;
+}
+body
+{
+    background-color: #201d1e
+}
+.spider{
+    width: 150px;
+    height: 500px;
+}
+
+#s1{
+    margin-left: 200px;
+    object-fit: cover;
+    object-position: -55px 50px;
+    height: 550px;
+}
+
+#s2{
+    object-fit: cover;
+    object-position: -309px 0px;
+}
+
+#s3{
+    object-fit: cover;
+    object-position: -440px 0px; 
+}
+
+#s4{
+    object-fit: cover;
+    object-position: -50px 0px; 
+}
+
+#s5{
+    object-fit: cover;
+    object-position: -340px -10px; 
+    
+}
+
+#s6{
+    object-fit: cover;
+    object-position: -100px 0px; 
+}
+
+.iron{
+    width: 150px;
+    height: 500px;
+}
+
+#I1{
+    margin-left: 200px;
+    object-fit: cover;
+    object-position: -300px 0px;
+}
+
+#I2{
+    object-fit: cover;
+    object-position: -30px 0px; 
+}
+
+#I3{
+    object-fit: cover;
+    object-position: -70px 0px; 
+}
+
+#I4{
+    object-fit: cover;
+    object-position: -100px 0px; 
+}
+
+#I5{
+    object-fit: cover;
+    object-position: -590px 0px; 
+}
+
+#I6{
+    object-fit: cover;
+    object-position: -40px 0px; 
+}
+
+iframe{
+    width: 600px;
+    height: 500px;
+    margin: 30px;
+}
+
+.game{
+    width: 150px;
+    height: 500px;
+}
+
+
+#G1{
+    object-fit: cover;
+    object-position: -350px 0px; 
+    margin-left: 150px;
+}
+
+
+#G2{
+    object-fit: cover;
+    object-position: -200px 0px; }
+
+#G3{ object-fit: cover;
+   object-position: -50px 0px; 
+    }
+#G4{
+     object-fit: cover;
+     object-position: -130px 0px; 
+        width: 250px;}
+            
+ #G5{
+    object-fit: cover;
+   object-position: -400px 0px; 
+ }
+
+ #G6{
+    object-fit: cover;
+   object-position: -400px 0px; 
+ }
+
+ #G7{
+    object-fit: cover;
+   object-position: -120px 0px; 
+ }
